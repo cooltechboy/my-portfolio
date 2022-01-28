@@ -1,0 +1,22 @@
+#navBar {
+  position: relative;
+  width: 100vw;
+  height: 10vh;
+  margin-top: none;
+  padding: none;
+  font-variant: normal;
+  font-weight: bolder;
+  color: black;
+  border: none;
+  background: #33ccff;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.nav-link {
+  color: black;
+  margin-left: 15vw;
+  font-size: 20px;
+}

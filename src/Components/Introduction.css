@@ -1,0 +1,32 @@
+* {
+  background: #33ccff;
+}
+
+.intro {
+  position: relative;
+  height: 85vh;
+  margin-top: 0%;
+  background: #33ccff;
+}
+
+#introText {
+  height: 85vh;
+  width: 50%;
+  float: left;
+  font-size: 35px;
+  font-family: sans-serif;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  background: #33ccff;
+}
+
+.my-image {
+  height: 45vh;
+  width: 40vw;
+  float: right;
+  align-self: center;
+  margin-top: 8%;
+  margin-right: 6%;
+}
